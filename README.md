@@ -20,28 +20,27 @@
 </p>
 
 <p align="center">
-  <code>Spring Boot</code> • <code>REST APIs</code> • <code>Spring Security</code> • <code>JWT</code> • <code>JPA/Hibernate</code> • <code>LLMs</code> • <code>RAG</code>
+  <code>Spring Boot</code> • <code>REST APIs</code> • <code>Spring Security</code> • <code>JWT</code> • <code>JPA/Hibernate</code> • <code>LLMs</code> • <code>RAG</code> • <code>MCP</code>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project                           | Description                                                           |
-| --------------------------------- | --------------------------------------------------------------------- |
-| 🏢 **Enterprise HRMS**            | Full-stack HR platform built with Java, Spring Boot, MySQL & React.   |
-| 🎙️ **Classroom Voice Analytics** | AI system for transcription, speaker insights & engagement analytics. |
-| ⚖️ **AutoLegal**                  | AI-powered legal document drafting using NLP & LLMs.                  |
+| Project                 | Description                                                                          |
+| ----------------------- | ------------------------------------------------------------------------------------ |
+| 🏢 **Enterprise HRMS**  | Full-stack HR platform built with Java, Spring Boot, MySQL & React.                  |
+| 🤖 **MCP AI Assistant** | AI-powered system exploring Model Context Protocol, tool calling & LLM integrations. |
+| ⚖️ **AutoLegal**        | AI-powered legal document drafting using NLP & LLMs.                                 |
 
 ---
 
 ### ⚡ Currently
 
-`Full-Stack Development`  `AI/LLMs`  `RAG Pipelines`  `System Design`  `Backend Engineering`
+`Full-Stack Development` • `AI/LLMs` • `RAG Pipelines` • `MCP` • `System Design` • `Backend Engineering`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekk039&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekk039&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekk039&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" width="420"/>
 </p>
 
 <p align="center">
